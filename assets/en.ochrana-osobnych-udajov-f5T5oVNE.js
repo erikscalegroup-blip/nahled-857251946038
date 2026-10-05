@@ -1,0 +1,1 @@
+import{c as e}from"./pages-Ce80MMG6.js";var t=e;export{t as component};

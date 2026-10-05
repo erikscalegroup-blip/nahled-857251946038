@@ -1,0 +1,1 @@
+import{a as e,w as t}from"./pages-Ce80MMG6.js";import{n}from"./index-4AHHJQMt.js";var r=t();function i(){let{id:t}=n.useParams();return(0,r.jsx)(e,{id:t})}export{i as component};
